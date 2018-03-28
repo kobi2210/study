@@ -6,7 +6,6 @@
   <version>0.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
   <modules>
-    <module>cloud-server</module>
     <module>study-cloud-server</module>
   </modules>
 </project>
