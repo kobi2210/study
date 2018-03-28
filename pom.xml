@@ -5,6 +5,7 @@
   <artifactId>study-parent</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
+  
   <modules>
     <module>study-cloud-server</module>
   </modules>
